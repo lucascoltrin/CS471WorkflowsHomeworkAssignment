@@ -120,3 +120,4 @@ This wiki page is a workaround to the GitHub [`Insights` -> `Network`](https://g
 ## Step 8 - Canvas
 Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) assignment.
 Part 2 Commit 1
+Part 2 Commit 2
